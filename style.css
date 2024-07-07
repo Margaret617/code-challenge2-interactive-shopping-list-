@@ -1,0 +1,27 @@
+h1{
+    color:purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: xx-large;
+}
+body{
+    background-color:plum;
+}
+.container{
+    justify-content: center;
+}
+.inner-container{
+    display: flex;
+    margin-top: 20px;
+}
+#iteminput{
+    
+}
+.buttons{
+    display: block;
+    padding: 15px 15px 15px 0px;
+}
+#additem:hover{
+    opacity: 0.6;
+    background-color: aquamarine;
+}
