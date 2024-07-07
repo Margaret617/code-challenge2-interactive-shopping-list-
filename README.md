@@ -12,8 +12,8 @@ Getting Started
 
 - Clone the Repository:
 
-- Clone this repository to your local machine using git clone https://github.com/your-username/interactive-shopping-list.git.
-Open the HTML File:
+- Clone this repository to your local machine using git clone git@github.com:Margaret617/code-challenge2-interactive-shopping-list-.git.
+## Open the HTML File:
 
 - Navigate to the project directory and open index.html in your web browser.
 Usage:
